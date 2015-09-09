@@ -1,4 +1,4 @@
-head {
+.head {
 width: 500px; height: 500px;
 }
 
@@ -7,12 +7,34 @@ width: 250px; height: 100px;
 }
 
 
-/* input[type=search] { 	
-	padding: 30px;            
-	font-family: Georgia;     
-	border: 5px solid black; 
-	background: red;          
-	line-height: 3;          
+.container-1 input#search{
+width: 350px;
+  height: 25px;
+
+  
+   color: #65737e;  
+ 
 }
 
- */
+.container-1 input#submit #input#submit1{
+
+  float: center;
+  position:absolute;
+  
+  left: 200px;
+top: 150px;
+ 
+ 
+}
+
+
+
+#logo {
+ margin: 200px -100px 200px 200px;
+position: absolute;
+left: 400px;
+top: 25px;
+float:left;
+}
+
+ 
